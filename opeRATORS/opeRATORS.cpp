@@ -143,6 +143,8 @@ int main() {
     int GG3;
     cout << "Enter 1 if you go to east:" << endl;
     cout << "Enter 2 if you go to west:" << endl;
+    cout << "Enter 2 if you go to west:" << endl;
+    cout << "Enter 2 if you go to west:" << endl;
     cout << "Enter 3 if you go to south:" << endl;
     cout << "Enter 4 if you go to north:" << endl;
     cin >> GG3;
